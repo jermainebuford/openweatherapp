@@ -1,0 +1,16 @@
+C:\Users\jay\Desktop\csharp27\openweatherapp\openweatherapp\obj\Debug\netcoreapp3.1\openweatherapp.csproj.AssemblyReference.cache
+C:\Users\jay\Desktop\csharp27\openweatherapp\openweatherapp\obj\Debug\netcoreapp3.1\openweatherapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay\Desktop\csharp27\openweatherapp\openweatherapp\obj\Debug\netcoreapp3.1\openweatherapp.AssemblyInfoInputs.cache
+C:\Users\jay\Desktop\csharp27\openweatherapp\openweatherapp\obj\Debug\netcoreapp3.1\openweatherapp.AssemblyInfo.cs
+C:\Users\jay\Desktop\csharp27\openweatherapp\openweatherapp\obj\Debug\netcoreapp3.1\openweatherapp.csproj.CoreCompileInputs.cache
+C:\Users\jay\Desktop\csharp27\openweatherapp\openweatherapp\bin\Debug\netcoreapp3.1\openweatherapp.exe
+C:\Users\jay\Desktop\csharp27\openweatherapp\openweatherapp\bin\Debug\netcoreapp3.1\openweatherapp.deps.json
+C:\Users\jay\Desktop\csharp27\openweatherapp\openweatherapp\bin\Debug\netcoreapp3.1\openweatherapp.runtimeconfig.json
+C:\Users\jay\Desktop\csharp27\openweatherapp\openweatherapp\bin\Debug\netcoreapp3.1\openweatherapp.runtimeconfig.dev.json
+C:\Users\jay\Desktop\csharp27\openweatherapp\openweatherapp\bin\Debug\netcoreapp3.1\openweatherapp.dll
+C:\Users\jay\Desktop\csharp27\openweatherapp\openweatherapp\bin\Debug\netcoreapp3.1\openweatherapp.pdb
+C:\Users\jay\Desktop\csharp27\openweatherapp\openweatherapp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jay\Desktop\csharp27\openweatherapp\openweatherapp\obj\Debug\netcoreapp3.1\openweatherapp.csproj.CopyComplete
+C:\Users\jay\Desktop\csharp27\openweatherapp\openweatherapp\obj\Debug\netcoreapp3.1\openweatherapp.dll
+C:\Users\jay\Desktop\csharp27\openweatherapp\openweatherapp\obj\Debug\netcoreapp3.1\openweatherapp.pdb
+C:\Users\jay\Desktop\csharp27\openweatherapp\openweatherapp\obj\Debug\netcoreapp3.1\openweatherapp.genruntimeconfig.cache
